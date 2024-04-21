@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aminovrm"/>
+  <img src="https://visitor-badge-deno.deno.dev/aminovrm.aminovrm.svg"/>
 </div>
 
 ###
